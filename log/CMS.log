@@ -1,0 +1,15 @@
+2024-01-16 03:30:26,056-login_page.py-input_username-s[line:22]--INFO-- 定位元素输入框-user，定位id，元素userAccount
+2024-01-16 03:30:26,188-login_page.py-input_password-s[line:25]--INFO-- 定位元素输入框-password，定位id，元素loginPwd
+2024-01-16 03:30:26,314-login_page.py-login_button-s[line:28]--INFO-- 定位元素-button，定位id，元素loginBtn
+2024-01-16 03:30:26,399-login_page.py-login_CMS-s[line:38]--INFO-- 准备执行登录，用户admin 密码123456
+2024-01-16 03:30:26,960-login_page.py-login_CMS-s[line:44]--INFO-- True_data执行登录成功，用户：admin，密码123456
+2024-01-16 03:30:36,995-login_page.py-input_username-s[line:22]--INFO-- 定位元素输入框-user，定位id，元素userAccount
+2024-01-16 03:30:37,141-login_page.py-input_password-s[line:25]--INFO-- 定位元素输入框-password，定位id，元素loginPwd
+2024-01-16 03:30:37,259-login_page.py-login_button-s[line:28]--INFO-- 定位元素-button，定位id，元素loginBtn
+2024-01-16 03:30:37,342-login_page.py-login_CMS-s[line:38]--INFO-- 准备执行登录，用户adminss 密码123456
+2024-01-16 03:30:37,353-login_page.py-login_CMS-s[line:51]--INFO-- Error_user执行登录失败，用户：adminss，密码123456
+2024-01-16 03:30:47,284-login_page.py-input_username-s[line:22]--INFO-- 定位元素输入框-user，定位id，元素userAccount
+2024-01-16 03:30:47,429-login_page.py-input_password-s[line:25]--INFO-- 定位元素输入框-password，定位id，元素loginPwd
+2024-01-16 03:30:47,562-login_page.py-login_button-s[line:28]--INFO-- 定位元素-button，定位id，元素loginBtn
+2024-01-16 03:30:47,653-login_page.py-login_CMS-s[line:38]--INFO-- 准备执行登录，用户admin 密码123123
+2024-01-16 03:30:47,663-login_page.py-login_CMS-s[line:51]--INFO-- Error_pasw执行登录失败，用户：admin，密码123123

@@ -1,0 +1,5 @@
+INFO     my logger:login_page.py:22 定位元素输入框-user，定位id，元素userAccount
+INFO     my logger:login_page.py:25 定位元素输入框-password，定位id，元素loginPwd
+INFO     my logger:login_page.py:28 定位元素-button，定位id，元素loginBtn
+INFO     my logger:login_page.py:38 准备执行登录，用户admin 密码123456
+INFO     my logger:login_page.py:44 True_data执行登录成功，用户：admin，密码123456

@@ -1,0 +1,10 @@
+2024-01-16 02:15:52,970-login_page.py-input_username-s[line:22]--INFO-- 准备执行输入用户，定位id，元素userAccount
+2024-01-16 02:15:53,117-login_page.py-input_password-s[line:25]--INFO-- 准备执行输入用户，定位id，元素userAccount
+2024-01-16 02:15:53,240-login_page.py-login_button-s[line:28]--INFO-- 准备执行输入用户，定位id，元素userAccount
+2024-01-16 02:15:53,882-login_page.py-login_CMS-s[line:43]--INFO-- True_data用例登录成功，用户：admin，密码123456
+2024-01-16 02:16:03,905-login_page.py-input_username-s[line:22]--INFO-- 准备执行输入用户，定位id，元素userAccount
+2024-01-16 02:16:04,045-login_page.py-input_password-s[line:25]--INFO-- 准备执行输入用户，定位id，元素userAccount
+2024-01-16 02:16:04,160-login_page.py-login_button-s[line:28]--INFO-- 准备执行输入用户，定位id，元素userAccount
+2024-01-16 02:16:14,242-login_page.py-input_username-s[line:22]--INFO-- 准备执行输入用户，定位id，元素userAccount
+2024-01-16 02:16:14,389-login_page.py-input_password-s[line:25]--INFO-- 准备执行输入用户，定位id，元素userAccount
+2024-01-16 02:16:14,518-login_page.py-login_button-s[line:28]--INFO-- 准备执行输入用户，定位id，元素userAccount

@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "test_login_successful[True_data-admin-123456]",
+        "uid" : "dbafed8352fda2ac",
+        "parentUid" : "d705d85621c348f9ae8ade89e0447582",
+        "status" : "passed",
+        "time" : {
+          "start" : 1705347025665,
+          "stop" : 1705347027463,
+          "duration" : 1798
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'True_data'", "123456", "'admin'" ]
+      }, {
+        "name" : "test_login_successful[Error_user-adminss-123456]",
+        "uid" : "1dd3eba781cae43",
+        "parentUid" : "d705d85621c348f9ae8ade89e0447582",
+        "status" : "passed",
+        "time" : {
+          "start" : 1705347036604,
+          "stop" : 1705347037858,
+          "duration" : 1254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Error_user'", "123456", "'adminss'" ]
+      }, {
+        "name" : "test_login_successful[Error_pasw-admin-123123]",
+        "uid" : "4d0e7fbb59e90845",
+        "parentUid" : "d705d85621c348f9ae8ade89e0447582",
+        "status" : "passed",
+        "time" : {
+          "start" : 1705347046905,
+          "stop" : 1705347048165,
+          "duration" : 1260
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Error_pasw'", "123123", "'admin'" ]
+      } ],
+      "uid" : "d705d85621c348f9ae8ade89e0447582"
+    } ],
+    "uid" : "e387fa4bb326b54ea8c19c2822aba374"
+  } ]
+}
